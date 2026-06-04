@@ -1,33 +1,86 @@
-# 👋 Hey there, I'm Samhita!
+# Samhita Stuti
 
-🎓 BTech Computer Science student at **SRM University Kattankulathur**  
-💡 I’m passionate about building tech that solves real-world problems  
-💻 Currently exploring smart systems, web dev, and social impact projects
+`B.Tech Computer Science · SRM University Kattankulathur`
 
-## 🚀 Projects I’ve Built
+Full-stack developer building AI-powered systems across healthcare, fintech, insurance, and education. I turn ambitious ideas into applications that solve real problems.
 
-- 🏥 **Smart Ambulance System**  
-  Real-time patient tracking, hospital sync, and emergency support using Firebase, Maps API & FHIR standards
+---
 
-- 🌉 **BridgeUp**  
-  Platform connecting underprivileged students to unpaid internships & skill training from companies — built with Firebase & Realtime Database
+## About Me
 
-## 🔧 Tech Stack
+- 💻 **Full-Stack Developer** — Java, Python, JavaScript, TypeScript, Firebase, FastAPI, PostgreSQL
+- 🤖 Building **AI Agents**, ML systems, and intelligent automation
+- 🏥 Exploring **HealthTech, FinTech, InsurTech** & Social Impact platforms
+- 📢 **PR Lead at Futurix** — SRM's technical community
+- 🌱 Always learning, always shipping
 
-- **Languages**: C, C++, Java, Python, JavaScript  
-- **Web**: HTML, CSS, JS, Firebase, REST APIs  
-- **Tools**: Git, GitHub, Figma, Canva (for PR/Design)  
+---
 
-## 👩‍🎓 Involvements
+## Featured Projects
 
-- Core PR team member of my university’s technical club  
-- Actively learning full-stack development and cloud tools  
-- Interested in health tech, social platforms, and impactful design
+### 🏥 Smart Ambulance System
+Emergency healthcare platform with real-time ambulance and patient tracking, multi-portal access (doctor, patient, driver), hospital recommendations, and integrated health record management.
 
-## 📫 Let’s Connect!
+`Firebase` `JavaScript` `Maps API` `HTML/CSS`
 
-- 📧 Email: samhitastuti06@gmail.com  
-- 💼 [LinkedIn]: https://www.linkedin.com/in/samhita-stuti-621a01352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app 
+---
+
+### 🌱 JUST THRYVE
+OCEN-compliant green lending platform with XGBoost-powered credit assessment, Account Aggregator consent simulation, and automated lending workflows for sustainable enterprises.
+
+`FastAPI` `PostgreSQL` `Python` `XGBoost`
+
+---
+
+### 🛡️ AI-Powered Insurance Platform
+Parametric insurance solution for gig workers — automated disruption monitoring, dynamic premium pricing, and instant claim payouts powered by AI risk assessment and weather event tracking.
+
+`Python` `AI Models` `Analytics`
+
+---
+
+### 🤖 OpenClaw Trading Agent
+Autonomous trading assistant with natural language instructions, multi-layer policy enforcement, risk-aware validation, and a safe broker integration architecture.
+
+`Python` `AI Agents` `Trading APIs`
+
+---
+
+
+### 🧠 Soul Arc Spark
+Conversational wellness platform with AI-driven response analysis, engagement scoring, and emotionally intelligent interactions.
+
+`TypeScript` `AI-powered interactions`
+
+---
+
+## Tech Stack
+
+| Category | Technologies |
+|---|---|
+| **Languages** | Java · Python · JavaScript · TypeScript · C · C++ |
+| **Backend & DB** | FastAPI · Firebase · PostgreSQL · REST APIs |
+| **Frontend** | HTML5 · CSS3 |
+| **AI / ML** | AI Agents · XGBoost · Machine Learning |
+| **Tools** | Git · GitHub · Figma · Canva · VS Code |
+
+---
+
+## GitHub Highlights
+
+🦈 **Pull Shark ×2** &nbsp;·&nbsp; 🎯 **YOLO Achievement** &nbsp;·&nbsp; Open-source contributor building real-world applications
+
+---
+
+## Connect
+
+📧 [samhitastuti06@gmail.com](mailto:samhitastuti06@gmail.com)
+&nbsp;&nbsp;·&nbsp;&nbsp;
+💼 [LinkedIn](https://www.linkedin.com/in/samhita-stuti-621a01352)
+
+---
+
+> *"Code with empathy. Build with purpose."*
 
 > “Code with empathy. Build with purpose.”
 
