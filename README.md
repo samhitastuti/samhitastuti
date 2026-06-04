@@ -12,13 +12,14 @@ Full-stack developer building AI-powered systems across fintech, insurtech, trad
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samhitastuti&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/samhitastuti)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samhitastuti&layout=pie&theme=tokyonight)](https://github.com/samhitastuti)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samhitastuti&show_icons=true&theme=default&hide_border=true&title_color=1D9E75&icon_color=1D9E75&text_color=444441&bg_color=ffffff" height="165" alt="GitHub stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samhitastuti&layout=compact&hide_border=true&title_color=1D9E75&text_color=444441&bg_color=ffffff" height="165" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=samhitastuti&hide_border=true&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75&sideLabels=888780&dates=888780" alt="GitHub streak" />
+</p>
 
 ---
 
