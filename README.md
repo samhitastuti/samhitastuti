@@ -10,17 +10,13 @@ Full-stack developer building AI-powered systems across fintech, insurtech, trad
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samhitastuti&show_icons=true&theme=default&hide_border=true&title_color=1D9E75&icon_color=1D9E75&text_color=444441&bg_color=ffffff" height="165" alt="GitHub stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samhitastuti&layout=compact&hide_border=true&title_color=1D9E75&text_color=444441&bg_color=ffffff" height="165" alt="Top languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=samhitastuti&hide_border=true&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75&sideLabels=888780&dates=888780" alt="GitHub streak" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samhitastuti&theme=default&hide_border=true&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75)](https://github.com/samhitastuti)
+
+</div>
 
 ---
 
@@ -158,16 +154,6 @@ Turn-based RPG game with animated sprites, interactive NPCs, battle systems, inv
 ## 🏆 GitHub Highlights
 
 🦈 **Pull Shark ×2** · 🎯 **YOLO Achievement** · Building production-grade systems with AI/ML at the core
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samhitastuti/samhitastuti/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samhitastuti/samhitastuti/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/samhitastuti/samhitastuti/output/github-snake.svg" />
-</picture>
 
 ---
 
