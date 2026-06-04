@@ -18,13 +18,6 @@ Full-stack developer building AI-powered systems across healthcare, fintech, ins
 
 ## Featured Projects
 
-### 🏥 Smart Ambulance System
-Emergency healthcare platform with real-time ambulance and patient tracking, multi-portal access (doctor, patient, driver), hospital recommendations, and integrated health record management.
-
-`Firebase` `JavaScript` `Maps API` `HTML/CSS`
-
----
-
 ### 🌱 JUST THRYVE
 OCEN-compliant green lending platform with XGBoost-powered credit assessment, Account Aggregator consent simulation, and automated lending workflows for sustainable enterprises.
 
@@ -51,6 +44,14 @@ Autonomous trading assistant with natural language instructions, multi-layer pol
 Conversational wellness platform with AI-driven response analysis, engagement scoring, and emotionally intelligent interactions.
 
 `TypeScript` `AI-powered interactions`
+
+---
+
+
+### 🏥 Smart Ambulance System
+Emergency healthcare platform with real-time ambulance and patient tracking, multi-portal access (doctor, patient, driver), hospital recommendations, and integrated health record management.
+
+`Firebase` `JavaScript` `Maps API` `HTML/CSS`
 
 ---
 
