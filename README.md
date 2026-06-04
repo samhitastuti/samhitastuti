@@ -1,8 +1,21 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D9E75&width=500&lines=Building+AI+systems+that+matter;Full-stack+engineer+%2B+ML+enthusiast;From+ideas+to+production-grade+apps)](https://git.io/typing-svg)
+
+---
+
 # Samhita Stuti
 
 `B.Tech Computer Science · SRM University Kattankulathur`
 
 Full-stack developer building AI-powered systems across fintech, insurtech, trading, and wellness. Passionate about intelligent automation, machine learning, and solving real-world problems through code.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samhitastuti&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samhitastuti&layout=compact&theme=radical"/>
+</div>
 
 ---
 
@@ -16,14 +29,14 @@ Full-stack developer building AI-powered systems across fintech, insurtech, trad
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 🌱 JUST THRYVE
 OCEN-compliant green lending platform with XGBoost-powered credit assessment, Account Aggregator consent simulation, and automated lending workflows for sustainable enterprises.
 
 **Stack:** FastAPI · PostgreSQL · XGBoost · SHAP · Pydantic · SQLAlchemy · React · Tailwind CSS
 
-[Repo](https://github.com/samhitastuti/just-thryve)
+[→ View Repository](https://github.com/samhitastuti/just-thryve)
 
 ---
 
@@ -32,7 +45,7 @@ Autonomous trading assistant with natural language instructions, multi-layer pol
 
 **Stack:** FastAPI · Python · OpenAI GPT-4o · Alpaca Markets · Pydantic · JSONL Audit Logs · Next.js Frontend
 
-[Repo](https://github.com/samhitastuti/openclaw-trading-agent)
+[→ View Repository](https://github.com/samhitastuti/openclaw-trading-agent)
 
 ---
 
@@ -41,7 +54,7 @@ Parametric insurance solution with automated disruption monitoring, dynamic prem
 
 **Stack:** FastAPI · XGBoost · SHAP · Celery · Redis · PostgreSQL · scikit-learn · PyTorch
 
-[Repo](https://github.com/samhitastuti/Insurance_agent-)
+[→ View Repository](https://github.com/samhitastuti/Insurance_agent-)
 
 ---
 
@@ -50,7 +63,7 @@ Modern task management platform with real-time updates, team collaboration, and 
 
 **Stack:** React 19 · TypeScript · Fastify · Prisma ORM · PostgreSQL · Tailwind CSS · Vite · Radix UI · Zustand · BullMQ · Redis
 
-[Repo](https://github.com/samhitastuti/TaskFlow)
+[→ View Repository](https://github.com/samhitastuti/TaskFlow)
 
 ---
 
@@ -59,7 +72,7 @@ Emergency healthcare platform with real-time ambulance and patient tracking, mul
 
 **Stack:** Firebase · JavaScript · Google Maps API · HTML5 · CSS3
 
-[Repo](https://github.com/samhitastuti/smart-ambulance)
+[→ View Repository](https://github.com/samhitastuti/smart-ambulance)
 
 ---
 
@@ -68,77 +81,63 @@ Turn-based RPG game with animated sprites, interactive NPCs, battle systems, inv
 
 **Stack:** Java · libGDX · Tiled
 
-[Repo](https://github.com/samhitastuti/GdxGame)
+[→ View Repository](https://github.com/samhitastuti/GdxGame)
 
 ---
 
-## Complete Tech Stack
+## 🛠️ Tech Stack
 
-### **Languages**
-Java · Python · TypeScript · JavaScript · C · C++
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### **Backend Frameworks**
-- **FastAPI** (Python) — REST APIs, async support, auto-documentation
-- **Fastify** (Node.js/TypeScript) — High-performance HTTP server
-- **Firebase** — Real-time database and hosting
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### **Frontend & UI**
-- **React 19** with TypeScript — Component-driven UIs
-- **Vite** — Modern build tooling
-- **Tailwind CSS** — Utility-first styling
-- **Radix UI** — Accessible component library
-- **HTML5 · CSS3** — Traditional web development
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **Databases & ORMs**
-- **PostgreSQL** — Primary relational database
-- **Prisma ORM** — Type-safe database access
-- **SQLAlchemy 2.0** — Python ORM
-- **Dexie** — IndexedDB for client-side storage
-- **Firebase Realtime Database**
+### Databases & ORMs
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC342D?style=for-the-badge&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase_DB-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### **Caching & Message Queues**
-- **Redis** — In-memory caching and rate limiting
-- **BullMQ** — Job queue system
-- **Celery** — Distributed task queue
+### AI/ML & Data Science
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6B35?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### **AI/ML & Data Science**
-- **XGBoost** — Gradient boosting for classification and regression
-- **SHAP** — ML model explainability and interpretability
-- **scikit-learn** — Classical machine learning algorithms
-- **PyTorch** — Deep learning framework
-- **Transformers** — NLP and transfer learning models
-- **OpenAI GPT-4o** — Large language model integration
-- **Google Gemini API** — Generative AI capabilities
-- **pandas · numpy** — Data manipulation and analysis
+### Caching & Queues
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-000000?style=for-the-badge&logo=redis&logoColor=white)
 
-### **Authentication & Security**
-- **JWT** (python-jose, jsonwebtoken) — Token-based authentication
-- **bcrypt** — Password hashing and encryption
-- **Fastify Helmet** — Security headers and middleware
-- **CORS** — Cross-origin request handling
-- **Pydantic v2** — Data validation and serialization
-
-### **APIs & Integrations**
-- **Alpaca Markets API** — Paper trading platform
-- **Google Maps API** — Location services
-- **Account Aggregator (AA)** — Financial data consent framework
-- **RESTful APIs** — Standard architecture
-
-### **DevOps & Tools**
-- **Git & GitHub** — Version control and collaboration
-- **Alembic** — Database schema migrations
-- **Docker** — Container orchestration
-- **GitHub Actions** — CI/CD pipelines
-- **pytest · vitest** — Testing frameworks
-- **Vite** — Build optimization
-
-### **Game Development**
-- **libGDX** — Cross-platform game framework
-- **Tiled** — Map editor for game development
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## Project Categories
+## 📈 Project Categories
 
 | **Domain** | **Projects** | **Key Tech** |
 |---|---|---|
@@ -151,35 +150,29 @@ Java · Python · TypeScript · JavaScript · C · C++
 
 ---
 
-## GitHub Highlights
+## 🏆 GitHub Highlights
 
 🦈 **Pull Shark ×2** · 🎯 **YOLO Achievement** · Building production-grade systems with AI/ML at the core
 
 ---
 
-## Featured Repositories
+## 📫 Connect
 
-- **[JUST THRYVE](https://github.com/samhitastuti/just-thryve)** — Green lending platform with ML underwriting
-- **[OpenClaw Trading Agent](https://github.com/samhitastuti/openclaw-trading-agent)** — Safe AI trading with policy enforcement
-- **[TaskFlow](https://github.com/samhitastuti/TaskFlow)** — Full-stack task management platform
-- **[Insurance Agent](https://github.com/samhitastuti/Insurance_agent-)** — AI-powered insurance underwriting
-- **[Smart Ambulance](https://github.com/samhitastuti/smart-ambulance)** — Real-time emergency healthcare platform
+<div align="center">
 
----
+[📧 Email](mailto:samhitastuti06@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/samhita-stuti-621a01352) · [🐙 GitHub](https://github.com/samhitastuti)
 
-## Connect
-
-📧 [samhitastuti06@gmail.com](mailto:samhitastuti06@gmail.com)
-&nbsp;&nbsp;·&nbsp;&nbsp;
-💼 [LinkedIn](https://www.linkedin.com/in/samhita-stuti-621a01352)
-&nbsp;&nbsp;·&nbsp;&nbsp;
-🐙 [GitHub](https://github.com/samhitastuti)
+</div>
 
 ---
+
+<div align="center">
 
 > *"Code with empathy. Build with purpose."*
 
 Thanks for stopping by! ⭐️
+
+</div>
 
 <!---
 samhitastuti/samhitastuti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
