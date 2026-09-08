@@ -28,7 +28,7 @@ Full-stack developer building AI-powered systems across fintech, insurtech, trad
 - 💻 **Full-Stack Developer** — Java, Python, TypeScript, React, FastAPI, PostgreSQL
 - 🤖 Building **AI Agents**, ML systems, and intelligent automation platforms
 - 💰 Exploring **FinTech, InsurTech, Trading Systems**, and HealthTech
-- 📢 **PR Lead at Futurix** — SRM's technical community
+- 📢 **Vice Secretary at Futurix** — SRM's CTech Department Student Assossiation
 - 🌱 Always learning, always shipping
 
 ---
